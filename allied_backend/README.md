@@ -43,7 +43,7 @@ Admin panel at:  **http://127.0.0.1:5000/admin**
 
 Default login:
 - Username: `admin`
-- Password: `allied@2026`
+- Password: `allied@2024`
 ⚠️ **Change this password immediately after first login.**
 
 ---
